@@ -17,7 +17,7 @@ Please check out [AlgoMonkeys' site](http://www.algomonkeys.io). You can also ad
 
 💻 I also try to give back to the open source comunnity with some approved PRs:
 
-- **Keras**: https://github.com/keras-team/keras/pull/15177 [![GitHub stars](https://badgen.net/github/stars/keras-team/keras)](https://GitHub.com/keras-team/keras/stargazers/)
+- **keras**: https://github.com/keras-team/keras/pull/15177 [![GitHub stars](https://badgen.net/github/stars/keras-team/keras)](https://GitHub.com/keras-team/keras/stargazers/)
 - **yolov5**: https://github.com/ultralytics/yolov5/pull/5153 [![GitHub stars](https://badgen.net/github/stars/ultralytics/yolov5)](https://GitHub.com/ultralytics/yolov5/stargazers/)
 - **kornia**: https://github.com/kornia/kornia/pull/874 [![GitHub stars](https://badgen.net/github/stars/kornia/kornia)](https://GitHub.com/kornia/kornia/stargazers/)
 - **pytorch tutorials**: https://github.com/pytorch/tutorials/pull/1998 [![GitHub stars](https://badgen.net/github/stars/pytorch/tutorials)](https://GitHub.com/pytorch/tutorials/stargazers/)
