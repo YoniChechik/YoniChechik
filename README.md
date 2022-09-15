@@ -15,7 +15,7 @@ Please check out [AlgoMonkeys' site](http://www.algomonkeys.io). You can also ad
 
 ⛳ I'm also a lecturer for Computer-Vision & AI at the Academic College of Tel-Aviv Yeffo, and in the past I've worked at Trigo, Microsoft, and Intel as an algo researcher. I hold B.Sc. & M.Sc. in electrical engineering from the Technion, both summa cum laude.
 
-💻 I also try to give back to the open source comunnity with some approved PRs:
+💻 I also try to give back to the open source community with some approved PRs:
 
 - **keras**: https://github.com/keras-team/keras/pull/15177 [![GitHub stars](https://badgen.net/github/stars/keras-team/keras)](https://GitHub.com/keras-team/keras/stargazers/)
 - **yolov5**: https://github.com/ultralytics/yolov5/pull/5153 [![GitHub stars](https://badgen.net/github/stars/ultralytics/yolov5)](https://GitHub.com/ultralytics/yolov5/stargazers/)
