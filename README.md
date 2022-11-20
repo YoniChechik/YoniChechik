@@ -21,6 +21,7 @@ Please check out [AlgoMonkeys' site](http://www.algomonkeys.io). You can also ad
 - **yolov5**: https://github.com/ultralytics/yolov5/pull/5153 [![GitHub stars](https://badgen.net/github/stars/ultralytics/yolov5)](https://GitHub.com/ultralytics/yolov5/stargazers/)
 - **kornia**: https://github.com/kornia/kornia/pull/874 [![GitHub stars](https://badgen.net/github/stars/kornia/kornia)](https://GitHub.com/kornia/kornia/stargazers/)
 - **librealsense**: https://github.com/IntelRealSense/librealsense/pull/10522 [![GitHub stars](https://badgen.net/github/stars/IntelRealSense/librealsense)](https://GitHub.com/IntelRealSense/librealsense/stargazers/)
+- **pytorch**: https://github.com/pytorch/pytorch/pull/85004 [![GitHub stars](https://badgen.net/github/stars/pytorch/pytorch)](https://GitHub.com/pytorch/pytorch/stargazers/)
 - **pytorch tutorials**: https://github.com/pytorch/tutorials/pull/1998 [![GitHub stars](https://badgen.net/github/stars/pytorch/tutorials)](https://GitHub.com/pytorch/tutorials/stargazers/)
 - **mmpose**: https://github.com/open-mmlab/mmpose/pull/1235 [![GitHub stars](https://badgen.net/github/stars/open-mmlab/mmpose)](https://GitHub.com/open-mmlab/mmpose/stargazers/)
 - **docusaurus**: https://github.com/facebook/docusaurus/pull/7982 [![GitHub stars](https://badgen.net/github/stars/facebook/docusaurus)](https://GitHub.com/facebook/docusaurus/stargazers/)
